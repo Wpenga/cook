@@ -1,4 +1,4 @@
-export default [
+[
   {
     "no": 0,
     "id": "1c92009b9638ee8f6124d3970b960e64",
