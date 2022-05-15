@@ -1,0 +1,22 @@
+[
+    {
+    
+        'image': 'wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/1.jpg',
+    },
+    {
+        cls: 'item1',
+        image: `${imageCdn}/02.png`,
+    },
+    {
+        cls: 'item2',
+        image: `${imageCdn}/03.png`,
+    },
+    {
+        cls: 'item3',
+        image: `${imageCdn}/04.png`,
+    },
+    {
+        cls: 'item4',
+        image: `${imageCdn}/05.png`,
+    }
+]
