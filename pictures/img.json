@@ -1,22 +1,17 @@
 [
     {
-    
-        'image': 'wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/1.jpg',
+        "image": "wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/1.jpg",
     },
     {
-        cls: 'item1',
-        image: `${imageCdn}/02.png`,
+        "image": "wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/2.jpg",
     },
     {
-        cls: 'item2',
-        image: `${imageCdn}/03.png`,
+        "image": "wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/3.jpg",
     },
     {
-        cls: 'item3',
-        image: `${imageCdn}/04.png`,
+        "image": "wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/4.jpg",
     },
     {
-        cls: 'item4',
-        image: `${imageCdn}/05.png`,
+        "image": "wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/5.jpg",
     }
 ]
