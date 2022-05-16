@@ -1,1 +1,18 @@
-a
+[
+    {
+        "name":"美团优选",
+        "url":"https://wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/app/meituan.png",
+    },
+    {
+        "name":"橙心优选",
+        "url":"https://wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/app/oringe.png"
+    },
+    {
+        "name":"兴盛优选",
+        "url":"https://wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/app/xin.png"
+    },
+    {
+        "name":"多多买菜",
+        "url":"https://wpenga.coding.net/p/cook/d/my/git/raw/master/pictures/app/duoduo.png"
+    }
+]
